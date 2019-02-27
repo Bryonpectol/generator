@@ -14,6 +14,9 @@
     justify-content: center;
 }
 
+h1 {
+    color: white;
+}
 
 .nav-div {
     position: fixed;
