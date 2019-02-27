@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 
 
 let water = new Image(500,300);
