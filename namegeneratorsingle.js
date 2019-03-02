@@ -27,7 +27,25 @@ let namesSingle = [
   "Exodus",
   "Starfall",
   "Amplifier",
-  "Sequencer"
+  "Sequencer",
+  "Varsic",
+  "Ki-bori-be",
+  "Luchador",
+  "Kraken",
+  "Beatrix",
+  "Magnus",
+  "Celeste",
+  "Magnolia",
+  "Noctem",
+  "Propriis",
+  "Yoru",
+  "Tatakai",
+  "Technicode",
+  "Yuki-sahn",
+  "Cielo",
+  "Nomistay",
+  "Legacy",
+  "Carstic"
 ];
 
 function newNameSingle() {
