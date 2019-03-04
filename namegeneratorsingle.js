@@ -45,7 +45,10 @@ let namesSingle = [
   "Cielo",
   "Nomistay",
   "Legacy",
-  "Carstic"
+  "Carstic",
+  "Hooniac",
+  "Warspatix",
+  "5t00rm"
 ];
 
 function newNameSingle() {
